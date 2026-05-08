@@ -1,0 +1,33 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+
+# Cargo lock (keep for binaries, ignore for libraries)
+# Since brixc is a binary, we keep Cargo.lock
+# Cargo.lock
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment files
+.env
+.env.local
+
+# LLVM build artifacts
+*.ll
+*.bc
+*.o
+*.s
+*.out
+
+# Brix compiled output
+*.bx.out
+
+# OS files
+Thumbs.db
+Desktop.ini
