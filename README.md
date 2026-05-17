@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="assets/logo.svg" alt="Brix Logo" width="200" />
   <h1 align="center">Brix</h1>
   <p align="center">
     <strong>A modern systems programming language — fast, safe, and expressive.</strong>
