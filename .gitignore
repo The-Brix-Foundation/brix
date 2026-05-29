@@ -31,3 +31,8 @@
 # OS files
 Thumbs.db
 Desktop.ini
+
+
+# Added by cargo
+
+/target
