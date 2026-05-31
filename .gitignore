@@ -36,3 +36,7 @@ Desktop.ini
 # Added by cargo
 
 /target
+
+# Compiled binaries
+hello
+output.o
